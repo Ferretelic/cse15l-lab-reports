@@ -1,7 +1,10 @@
 # Index
-* [Introduction](https://ferretelic.github.io/cse15l-lab-reports/introduction.html)
-* [Mathematics](https://ferretelic.github.io/cse15l-lab-reports/mathematics.html)
-* [Photo](https://ferretelic.github.io/cse15l-lab-reports/photo.html)
+* [Introduction](introduction.html)
+  Itroduction of myself.
+* [Mathematics](mathematics.html)
+  List of useful formulas.
+* [Photo](photo.md)
+  List of pictures I took.
 
 # Hello World!
 ``` java
