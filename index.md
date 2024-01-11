@@ -1,10 +1,7 @@
 # Index
-* [Introduction](introduction.html)
-  Itroduction of myself.
-* [Mathematics](mathematics.html)
-  List of useful formulas.
-* [Photo](photo.md)
-  List of pictures I took.
+* [Introduction](introduction.html) (Itroduction of myself)
+* [Mathematics](mathematics.html) (List of useful formulas)
+* [Photo](photo.md) (List of pictures I took)
 
 # Hello World!
 ``` java
