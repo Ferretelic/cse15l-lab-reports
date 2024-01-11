@@ -27,7 +27,7 @@ cd [path of a directory you want to move to (optional)]
 ```
 ### A command with no arguments
 **Setup**
-* Working Directory: `/home`
+* Working Directory: `/home/lecture1`
 
 **Input**
 ``` zsh
