@@ -1,7 +1,8 @@
 # Index
 * [Introduction](https://ferretelic.github.io/cse15l-lab-reports/introduction.html)
-# Hello World!
+* [Mathematics](https://ferretelic.github.io/cse15l-lab-reports/mathematics.html)
 
+# Hello World!
 ``` java
 public class HelloWorld {
   public static void main(String[] args) {
