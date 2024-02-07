@@ -224,11 +224,11 @@ class ChatServer {
 
 ## Private Key
 ![](../images/report2/image1.png)
-Private key is the key in the local device to login the server. These keys usually are located in `~/.ssh` folder. We can comfirm by calling `ls /Users/shouki_pro/.ssh`. In this folder, we can see there is a file `id_rsa.pub`.
+Private key is the key in the local device to login the server. These keys usually are located in `~/.ssh` folder. We can comfirm by calling `ls /Users/shouki_pro/.ssh`. In this folder, we can see there is a file `id_rsa` without `.pub`.
 
 ## Public Key
 ![](../images/report2/image2.png)
-Public key is the key in the server to allow the login. By calling `ls /home/linux/ieng6/oce/8o/shkatsuyama/.ssh/`, we can see there is a file `authorized_keys` which contains the public key.
+Public key is the key in the server to allow the login, which is copied from `/Users/shouki_pro/.ssh/id_ras.pub` in the local computer, which is show in the previous image. By calling `ls /home/linux/ieng6/oce/8o/shkatsuyama/.ssh/`, we can see there is a file `authorized_keys` which contains the public key copied from the local computer.
 
 ## Login to the Server
 By calling the command `ssh [username]@[server domain]`. In this example, we called `ssh shkatsuyama@ieng6-201.ucsd.edu` to login the server. As the private key in the device and public key in the server mathces, we don't need to input password.
