@@ -314,3 +314,33 @@ find . -empty -type f -name "*.java"
 ```
 ./even-more-files/d.java
 ```
+
+# Citation
+When finding the use cases for find empty option, we used ChatGPT.
+
+```
+What is empty option of find.
+```
+(I used it in Japanse but I did it again in English.)
+<details>
+    <summary>Output</summary>
+    The `-empty` option of the `find` command in Unix-like operating systems is used to match files and directories that are empty. An empty file has a size of 0 bytes, and an empty directory contains no entries (no other files or directories within it). 
+
+Using the `-empty` option with `find` allows you to locate these empty files and directories within the filesystem. This can be particularly useful for cleaning up or managing files and directories in your system.
+
+Here's a basic example of how to use the `-empty` option with `find`:
+
+```sh
+find /path/to/search -empty
+```
+
+This command will search through `/path/to/search` and all its subdirectories for empty files and directories, and list them.
+
+For instance, if you wanted to find all empty files and directories in the current directory and its subdirectories, you would use:
+
+```sh
+find . -empty
+```
+
+In this command, `.` represents the current directory. The `-empty` option instructs `find` to only match files and directories that are empty.
+</details>
