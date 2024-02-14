@@ -335,4 +335,3 @@ find /path/to/search -empty
 find . -empty
 ```
 > In this command, `.` represents the current directory. The `-empty` option instructs `find` to only match files and directories that are empty.
-</details>
