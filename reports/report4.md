@@ -1,4 +1,4 @@
-# Lab Report 4 Vim (Week 7) {#week-3-lab-report}
+# Lab Report 4 Vim (Week 7) {#week-7-lab-report}
 This blog explain how to utilize `vim` command to speed up your coding work.
 
 We explain the step by solving the task as followings:
