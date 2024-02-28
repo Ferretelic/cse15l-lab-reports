@@ -2,6 +2,7 @@
 * [Lab Report 1](reports/report1.md)
 * [Lab Report 2](reports/report2.md)
 * [Lab Report 3](reports/report3.md)
+* [Lab Report 4](reports/report4.md)
 # Index
 * [Introduction](introduction.html) (Itroduction of myself)
 * [Mathematics](mathematics.html) (List of useful formulas)
