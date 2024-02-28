@@ -1,4 +1,4 @@
-# Lab Report 3 Servers and SSH Key (Week 3) {#week-3-lab-report}
+# Lab Report 3 Servers and SSH Key (Week 5) {#week-3-lab-report}
 This blog have two sections `How to Fix a Bug` and `How to Utilize find Command`.
 
 # How to Fix a Bug
