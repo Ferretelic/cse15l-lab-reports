@@ -273,6 +273,7 @@ To add all the file under the current working directly, you can just run below
 ```
 git add .
 ```
+![](../images/report4/debug4-4.png)
 
 ### Commit the change
 To commit the change, you can use `git` as follwing.
@@ -286,7 +287,7 @@ git commit -m "fixed bug"
 ```
 You can see the output as below if you successfully commit the change.
 
-![](../images/report4/debug4-4.png)
+![](../images/report4/debug4-5.png)
 
 ### Pusht the Commit
 To push the commit, you have to specify the `remote head` and `branch`
@@ -301,11 +302,11 @@ The default name for `remote head` is `origin` and branch is `main`.
 git push origin main
 ```
 
-![](../images/report4/debug4-5.png)
+![](../images/report4/debug4-6.png)
 
 You can visit the website of Github to check your changes have been reflected.
 
-![](../images/report4/debug4-6.png)
+![](../images/report4/debug4-7.png)
 
 # Citation
 When finding the way to go back to older command in Reverse search, we used ChatGPT.
