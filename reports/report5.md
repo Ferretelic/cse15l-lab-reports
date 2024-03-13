@@ -1,4 +1,4 @@
-# Lab Report 5 - Putting it All Together (Week 9) (Week 9) {#week-9-lab-report}
+# Lab Report 5 - Putting it All Together (Week 9) {#week-9-lab-report}
 In this blog, we would like to explain how to fix the bug in a program while utilizing the community service like EdStem. In the end, we would add a note on the reflection of the course, CSE15L.
 
 ## Debugging Scenario
